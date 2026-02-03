@@ -82,7 +82,7 @@ Points are given as follows:
 
 ## Automated checks
 
-### [Lab setup](./README.md#lab-setup)
+### Check - [Lab setup](./README.md#lab-setup)
 
 - Student repo is a public fork of the lab repo.
 - The repo has a classmate as a collaborator (check the table).
@@ -94,13 +94,13 @@ Points are given as follows:
 
 ### Required tasks
 
-#### [1. Pick a product and study its architecture](./README.md#1-pick-a-product-and-study-its-architecture)
+#### Check - [1. Pick a product and study its architecture](./README.md#1-pick-a-product-and-study-its-architecture)
 
 - roles per component are outlined (`./docs/roles-and-skills.md`).
 
-#### [2. Tech roles involved in the selected product](./README.md#2-study-the-market-for-your-product)
+#### Check - [2. Tech roles involved in the selected product](./README.md#2-study-the-market-for-your-product)
 
-#### [3. My tech skills and the market: roadmap.sh and job postings](./README.md#3-my-tech-skills-and-the-market-roadmapsh-and-job-postings)
+#### Check - [3. My tech skills and the market: roadmap.sh and job postings](./README.md#3-my-tech-skills-and-the-market-roadmapsh-and-job-postings)
 
 - Job posting links are real.
 - `./docs/roles-and-skills.md` has the `## Job market snapshot` section filled in.

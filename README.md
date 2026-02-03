@@ -14,37 +14,40 @@ To kickstart the course, you will explore two things:
 
 ### Time estimates
 
-| Section | Time |
-|---------|------|
-| [Setup](./lab/setup.md) | ~30 min |
-| [Task 1](./lab/tasks/required/task-1.md) | ~30–40 min |
-| [Task 2](./lab/tasks/required/task-2.md) | ~20–30 min |
-| [Task 3](./lab/tasks/required/task-3.md) | ~30–40 min |
-| **Total** | **~2–2.5 hours** |
+| Section                                  | Time             |
+| ---------------------------------------- | ---------------- |
+| [Setup](./lab/setup.md)                  | ~30 min          |
+| [Task 1](./lab/tasks/required/task-1.md) | ~30–40 min       |
+| [Task 2](./lab/tasks/required/task-2.md) | ~20–30 min       |
+| [Task 3](./lab/tasks/required/task-3.md) | ~30–40 min       |
+| **Total**                                | **~2–2.5 hours** |
 
 ---
 
 ## Table of contents
 
-**Overview**
+### Overview
 
 - [Learning Outcomes](#learning-outcomes)
 - [Tasks overview](#tasks-overview)
 - [Repo structure](#repo-structure)
 
-**Before you start**
+### Before you start
 
 - [Lab setup](./lab/setup.md)
 - [Submission checklist](#submission-checklist)
 - [Procedure for each task](./lab/tasks/required/procedure.md)
 - [PR reviews](./lab/tasks/required/procedure.md#pr-reviews)
 
-**Tasks**
+### Tasks
 
 - [Lab 01 – Products, Architecture \& Roles](#lab-01--products-architecture--roles)
   - [Quick Start](#quick-start)
     - [Time estimates](#time-estimates)
   - [Table of contents](#table-of-contents)
+    - [Overview](#overview)
+    - [Before you start](#before-you-start)
+    - [Tasks](#tasks)
   - [Learning Outcomes](#learning-outcomes)
   - [Tasks overview](#tasks-overview)
   - [Repo structure](#repo-structure)
