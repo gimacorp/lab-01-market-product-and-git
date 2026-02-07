@@ -7,7 +7,8 @@ Short description of the product: The largest Russian international marketplace 
 
 ![Wildberries Component Diagram](./diagrams/out/wildberries/architecture-component/Component%20Diagram.svg)
 
-Wildberries Component Diagram Code
+[Wildberries Component Diagram Code](./diagrams/src/wildberries/architecture-component.puml)
+
 
 Here are **7 components** selected from the diagram, with brief explanations of what they do:
 
@@ -34,6 +35,8 @@ Here are **7 components** selected from the diagram, with brief explanations of 
 
 ## Data flow
 ![Wildberries Sequence Diagram](./diagrams/out/wildberries/architecture-sequence/Sequence%20Diagram.svg)
+
+[Wildberries Sequence Diagram Code](./diagrams/src/wildberries/architecture-sequence.puml.puml)
 
 Group 2: “Checkout (Reservation & Payment)”
 1. What happens in this group of steps
@@ -67,6 +70,8 @@ Payment transaction data (payment URL, 3DS redirect info)
 
 ## Deployment
 ![Wildberries Deployment Diagram](./diagrams/out/wildberries/architecture-deployment/Deployment%20Diagram.svg)
+
+[Wildberries deployment Diagram Code](./diagrams/src/wildberries/architecture-deployment.puml)
 
 Client Applications (Customer Mobile App, Partner App, Web Browser)
 These components are deployed on user-owned devices (smartphones and personal computers). They communicate with Wildberries infrastructure over the public internet using HTTPS / GraphQL.
